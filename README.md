@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.instagram.com/USERNAME" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/USERNAME">
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-fabricio&layout=compact)](https://github.com/adam-fabricio/github-readme-stats)
+
+
+![Snake animation](https://github.com/adam-fabricio/adam-fabricio/blob/output/github-contribution-grid-snake.svg)
